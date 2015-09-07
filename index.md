@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Gregory Knudsen
+tagline: Musician | Developer | Artist
 ---
 {% include JB/setup %}
 
